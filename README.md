@@ -1,5 +1,3 @@
-## 📄 `meddocai-frontend/README.md`
-
 # 🧠 MedDocAI — Frontend
 
 MedDocAI is a simple, privacy-focused web app that helps users understand medical documents such as prescriptions, lab reports, and scanned notes using AI.
