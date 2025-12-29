@@ -1,16 +1,83 @@
-# React + Vite
+Perfect — here’s a **short, clean, interactive, and slightly unique README** for the **frontend only**.
+It’s easy to read, not boring, and still professional.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📄 `meddocai-frontend/README.md`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+````md
+# 🧠 MedDocAI — Frontend
 
-## React Compiler
+MedDocAI helps users **understand medical documents** (prescriptions, lab reports, scans) by converting them into **clear, human-friendly explanations** using AI.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This repository contains the **frontend** of the project.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ What Users Can Do
+
+- Upload up to **3 medical documents**
+- See a **live “Analyzing…” AI status**
+- Read explanations in **simple language**
+- Download a **professionally structured PDF report**
+- Use the app without login or data storage
+
+---
+
+## 🛠 Built With
+
+- React.js
+- Vite
+- Tailwind CSS
+- React Router
+
+---
+
+## 🚀 Run Locally (2 Minutes)
+
+```bash
+git clone https://github.com/<your-username>/meddocai-frontend.git
+cd meddocai-frontend
+npm install
+npm run dev
+````
+
+App runs at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🔗 Backend Requirement
+
+The frontend expects the backend API at:
+
+```
+http://localhost:5000
+```
+
+Make sure the backend is running before testing.
+
+---
+
+## 🔐 Privacy First
+
+* No login
+* No user data stored
+* Files processed temporarily only
+
+---
+
+## 👨‍💻 Developer
+
+**Shashwat Singh**
+
+---
+
+## ⚠️ Disclaimer
+
+AI-generated explanations are for educational purposes only and are not medical advice.
+Then I’ll prepare the **backend README** in the same clean style.
+```
