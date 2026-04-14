@@ -25,33 +25,6 @@ This repository contains the **frontend** of the MedDocAI project.
 
 ---
 
-## 🚀 Run Locally
-
-```bash
-npm install
-npm run dev
-````
-
-Frontend runs at:
-
-```
-http://localhost:5173
-```
-
----
-
-## 🔗 Backend Dependency
-
-This frontend connects to a backend running at:
-
-```
-http://localhost:5000
-```
-
-Make sure the backend server is running before using the app.
-
----
-
 ## 🔐 Privacy Notice
 
 Uploaded files are processed temporarily and are not stored.
